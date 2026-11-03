@@ -1,0 +1,5 @@
+-- CreateTable
+CREATE TABLE "tarea" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "texto" TEXT NOT NULL
+);
